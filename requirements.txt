@@ -18,3 +18,5 @@ sentence-transformers==2.7.0
 langchain-chroma
 faiss-cpu
 lark
+pandas
+langchain_experimental
